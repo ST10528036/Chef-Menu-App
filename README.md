@@ -10,7 +10,7 @@ I aswell had drawn my User Interface design creating 5 separate screens, each in
 
 What i had changed was the Edit button option in my home screen for the app because i had no Edit option within the menu items in the home screen, overall creating a more functional app for users with all necessary changes that can be done.
 
-#YouTube Video Link for Functioning App Recording:
+# YouTube Video Link for Functioning App Recording:
 
 https://youtube.com/shorts/vigcrM_3q9s?si=AJdw68k2An2Xj4ud 
 (Edited using CapCut because i had forgotten to add the statistics functioning page (Added at the end))
